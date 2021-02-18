@@ -9,5 +9,6 @@
 5.Download geckodriver, chromdriver (move the executable files on Python/Scripts directory)
 6.Download text editor (ride,atom,pycharm, VS Code etc.)
 8.pull in your local branch
+9.open the test suite and run the testcases
 
 
